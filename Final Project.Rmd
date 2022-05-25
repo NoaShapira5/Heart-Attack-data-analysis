@@ -4,7 +4,6 @@ author: "Tomer Blum and Noa Shapira"
 date: "June 2021"
 output: 
   html_document:
-    keep_md: true
     theme: united
 ---
 <body style="background-color:lavender;">
