@@ -1,6 +1,6 @@
 ---
 title: "Final Project - Intro to Statistics and Data Analysis"
-author: "Tomer Blum 208947382 and Noa Shapira 319121166"
+author: "Tomer Blum and Noa Shapira"
 date: "June 2021"
 output: 
   html_document:
