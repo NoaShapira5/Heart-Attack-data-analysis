@@ -9,4 +9,4 @@ The project was written in R programing language
 | Histogram plot of each feature | ![alt text]([visual-1.png](https://github.com/NoaShapira5/Heart-Attack-data-analysis/blob/main/Final-Project_files/figure-gfm/visual-1.png) 'Histogram') |
 | QQplot for indicating normal distribution | ![alt text]([qqplot.png](https://github.com/NoaShapira5/Heart-Attack-data-analysis/blob/main/Final-Project_files/figure-gfm/qqplot%20residuals-1.png) 'QQplot') |
 | Pie chart for the features heart_attack and gender | ![alt text]([categoty-1.png](https://github.com/NoaShapira5/Heart-Attack-data-analysis/blob/main/Final-Project_files/figure-gfm/categoty-1.png) 'Pie chart') |
-| Dansity plots | ![alt text]([Relations-1.png](https://github.com/NoaShapira5/Heart-Attack-data-analysis/blob/main/Final-Project_files/figure-gfm/Relations-1.png) 'dansity') |
+| Dansity plots | ![alt text](https://github.com/NoaShapira5/Heart-Attack-data-analysis/blob/main/Final-Project_files/figure-gfm/Relations-1.png 'dansity') |
